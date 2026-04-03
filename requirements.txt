@@ -1,0 +1,10 @@
+# Python dependencies for EECS 543 Sarcasm Detection Project
+
+# Assignment 2 - AI Model Inference
+anthropic>=0.20.0
+
+# Assignment 3 - Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
