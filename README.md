@@ -268,6 +268,6 @@ This project was created for EECS 543 at the University of Michigan. Dataset sou
 
 ## Author
 
-Nikhil Guna
+Nikhil Gunaratnam
 EECS 543 - AI Ethics
 University of Michigan, Winter 2026
